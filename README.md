@@ -1,20 +1,20 @@
-# CloudFormation Project
+## Udacity
+
+> Cloud DevOps Engineer, Completed May 14, 2020
 
 ## Objective
 
-> This project is to fulfill the project named "Deploy a high-availability web app using CloudFormation" on Udacity Cloud DevOps Nanodegree.
+This project is to fulfill the project named "Deploy a high-availability web app using CloudFormation" on Udacity Cloud DevOps Nanodegree. I used a tool called Sceptre and also using Troposphere. I found that using this tool is easier than creating from scratch.
 
-The project is based on a tool called Sceptre and also using Troposphere. I found that using this tool is easier than creating from scratch.
-
-However, if you want to see a work in progress project that has the original files, please see [https://github.com/pullmana8/Cloudformation-IaC](https://github.com/pullmana8/Cloudformation-IaC).
+However, if you want to see a work in progress project that has the original files, please see [https://github.com/acald-creator/Jenkins-Pipeline-on-AWS](https://github.com/acald-creator/Jenkins-Pipeline-on-AWS).
 
 ## Requirements
 
 If you would like to try out the tool Sceptre, you will need to install Sceptre through pip. Once installed, setup the virtual environment within your newly created project.
 
-For my python packing and virtual environment, I use pipx and pipenv.
+For my python packaging and virtual environment, I used `pipx` and `pipenv`.
 
-Install pipx with sceptre and pipenv.
+Install `pipx` with `sceptre` and `pipenv`.
 
 `sceptre new project my-sceptre-project`
 
