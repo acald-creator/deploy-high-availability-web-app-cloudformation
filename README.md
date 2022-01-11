@@ -6,7 +6,7 @@
 
 This project is to fulfill the project named "Deploy a high-availability web app using CloudFormation" on Udacity Cloud DevOps Nanodegree. I used a tool called Sceptre and also using Troposphere. I found that using this tool is easier than creating from scratch.
 
-However, if you want to see a work in progress project that has the original files, please see [https://github.com/acald-creator/Jenkins-Pipeline-on-AWS](https://github.com/acald-creator/Jenkins-Pipeline-on-AWS).
+However, if you want to see a work in progress project that has the original files, please see [https://github.com/acald-creator/Capstone-Jenkins-on-AWS](https://github.com/acald-creator/Capstone-Jenkins-on-AWS).
 
 ## Requirements
 
