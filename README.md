@@ -6,8 +6,6 @@
 
 This project is to fulfill the project named "Deploy a high-availability web app using CloudFormation" on Udacity Cloud DevOps Nanodegree. I used a tool called Sceptre and also using Troposphere. I found that using this tool is easier than creating from scratch.
 
-However, if you want to see a work in progress project that has the original files, please see [https://github.com/acald-creator/Capstone-Jenkins-on-AWS](https://github.com/acald-creator/Capstone-Jenkins-on-AWS).
-
 ## Requirements
 
 If you would like to try out the tool Sceptre, you will need to install Sceptre through pip. Once installed, setup the virtual environment within your newly created project.
@@ -20,7 +18,7 @@ Install `pipx` with `sceptre` and `pipenv`.
 
 You will be ask to input region and name of the project which be put into a config.yaml file.
 
-Once the project is created, change into the directory and run pipenv install sceptre for double measure. This will create the Pipfile and Pipfile.lock.
+Once the project is created, change into the directory and run `pipenv` install `sceptre` for double measure. This will create the `Pipfile` and `Pipfile.lock`.
 
 I ran `python freeze > requirements.txt` so you can see what was been used in this project.
 
